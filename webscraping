@@ -1,0 +1,13 @@
+# Comphrehensive Web Scraping with BeautifulSoup & Selenium </h3>
+In this porject, I used BeautifulSoup and Selenium to scrape data from mulitple websites, including
+<ul>
+  <li> Books to Scrape
+  <li> Zillow
+  <li> Mathjobs
+  <li> Yelp, and more
+--
+- Books to Scrape, 
+- Zillow 
+- MathJobs, 
+-Yelp, and more. 
+The project automates data collection for insights into real estate, academic job listings, customer reviews, and online book inventories. Link 
